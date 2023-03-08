@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This webpage allows for desired users to look at the company's site and browse what this company has to offer. Through the use of the nav bar, users are allowed to quickly go to the specified area of content they desire to learn more with just one click.
+This webpage allows for desired users to look at the company's site and browse what this company has to offer. Through the use of the nav bar, users are allowed to quickly go to the specified area of content in which they desire to learn more about.
 
 ## Credits
 
