@@ -19,4 +19,6 @@ N/A
 ## License
 
 N/A
+
+## Screenshot
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/55112932/224222967-11894ec1-a5be-407b-b061-660d074e5ccd.png)
